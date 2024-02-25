@@ -12,7 +12,7 @@ public class ProyectoSGA {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        System.out.println("Prueba aa");
+        System.out.println("Prueba aaasjhdk");
         System.out.println("prueba xd 2");
 }
 }
