@@ -14,5 +14,13 @@ public class ProyectoSGA {
         System.out.println("Hello World!");
         System.out.println("Prueba fsfsafasfassaf");
         System.out.println("prueba xd 2");
+        
+        
+         
+        
 }
+    
+    public static void sfas(){
+        
+    }
 }
