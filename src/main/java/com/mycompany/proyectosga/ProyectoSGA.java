@@ -11,6 +11,7 @@ public class ProyectoSGA {
         System.out.println("Prueba fsfsafasfassaf");
         System.out.println("prueba xd 2");
         System.out.println("prueba3");
+        System.out.println("Hola amigos!");
         
         System.out.println("sirva pls");
         
